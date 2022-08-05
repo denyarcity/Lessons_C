@@ -1,0 +1,16 @@
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\bin\Debug\net6.0\ref\Example002_HelloUser.dll
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GlobalUsings.g.cs
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+C:\Users\Денис\Desktop\Учеба GB\3_Знакомство с языками программирования (лекции)\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
