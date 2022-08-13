@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
+      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Lessons\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
       "projectName": "Example008_IntroMethod",
-      "projectPath": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
+      "projectPath": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Lessons\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
       "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Examples\\Example008_IntroMethod\\obj\\",
+      "outputPath": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Lessons\\Examples\\Example008_IntroMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config"
