@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Examples\\Example004_Div\\Example004_Div.csproj",
+      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Lessons\\Examples\\Example004_Div\\Example004_Div.csproj",
       "projectName": "Example004_Div",
-      "projectPath": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Examples\\Example004_Div\\Example004_Div.csproj",
+      "projectPath": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Lessons\\Examples\\Example004_Div\\Example004_Div.csproj",
       "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Examples\\Example004_Div\\obj\\",
+      "outputPath": "C:\\Users\\Денис\\Desktop\\Учеба GB\\3_Знакомство с языками программирования (лекции)\\Lessons\\Examples\\Example004_Div\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config"
